@@ -4,23 +4,7 @@
 hi github lol
 </h1>
   
-<!--
-<details><summary>my popular gists:</summary>
 
-# <p  align="center"> [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=71f1152be6d8a5c8b6038db39a915d74)](https://gist.github.com/TheCubiq/71f1152be6d8a5c8b6038db39a915d74) </p><p  align="center">[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b647e03b5d411a5df1d447dbe80ac298)](https://gist.github.com/TheCubiq/b647e03b5d411a5df1d447dbe80ac298) </p>
-
-</details>
--->
-  
-
-# <p  align="center"> ![visitor counter](https://count.getloli.com/get/@TheCubiq) ...visits</p>
-
-<!-- 
-  gotta do it till it works 💀
-  shoutout to @iGerman00 for showing me this <3
-
-  patched, keeping, one day maybe..
--->
 ```math
 \mmlToken{ms}[fontfamily="
 madebycubiquwu;
@@ -45,8 +29,6 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
-backdrop-filter: saturate(2) blur(15px) brightness(0.7) opacity(1.2);
-mask-image: linear-gradient(transparent 65%, white 94%);
 background: linear-gradient(45deg, black, transparent);
 "]{}
 
