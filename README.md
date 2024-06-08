@@ -1,4 +1,4 @@
-<!-- # <p  align="center"> ༺  ![:vizzy: ](https://cdn.discordapp.com/emojis/855518015553929236.png?quality=lossless&size=48 ) ![:arcWhite:](https://i.imgur.com/in6Uqg3.png ) ![:svelte:](https://cdn.discordapp.com/emojis/764128238225195059.png?quality=lossless&size=48) ![:cloudkid:](https://i.imgur.com/LGnaTIz.png) ![:fedoraslay:](https://cdn.discordapp.com/emojis/1114124802014322749.png?quality=lossless&size=48) ![:spline:](https://cdn.discordapp.com/emojis/887386191412998164.png?quality=lossless&size=48) ༻ </p> -->
+
 
 <h1 align="center">
 hi github lol
@@ -59,27 +59,4 @@ pointer-events: none;
 opacity: 0.5;
 "]{}
 
-\mmlToken{ms}[fontfamily="
-font-family: madebycubiquwu;
-color:transparent;
-pointer-events: none;
-position: fixed;
-inset: 0;
-backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
-"]{}
-
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
-pointer-events: none;
-position: fixed;
-inset: 0;
-z-index: 100;
-font-size: 0.420rem;
-background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
-background-repeat: no-repeat;
-background-size: contain;
-opacity: 0.02;
-background-position-x: center;
-"]{}
 ```
