@@ -16,7 +16,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 width: 130vw;
-background: url('https://i.imgur.com/q1O3kYK.jpeg');
+background: url('https://raw.githubusercontent.com/j3seer/j3seer/main/a.jpg');
 "]{}
 \mmlToken{ms}[fontfamily="
 madebycubiquwu;
