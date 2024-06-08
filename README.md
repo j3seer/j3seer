@@ -29,7 +29,6 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
-background: linear-gradient(45deg, black, transparent);
 "]{}
 
 
