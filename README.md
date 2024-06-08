@@ -16,7 +16,7 @@ inset:0;
 object-fit: cover;
 background-size: cover;
 width: 130vw;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
+background: url('https://i.imgur.com/q1O3kYK.jpeg');
 "]{}
 \mmlToken{ms}[fontfamily="
 madebycubiquwu;
