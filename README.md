@@ -3,7 +3,7 @@
 
 - Sometimes write on my blog [https://j3seer.github.io/](https://j3seer.github.io/)
 
-- You can reach me at **j3seer@proton.me**
+- You can reach me at **j3seer@proton.me** or discord @j3seer
 
 <h3 align="left">Socials:</h3>
 <p align="left">
