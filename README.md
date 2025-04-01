@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm j3seer</h1>
-<h3 align="center">Interested in web security, I like playing CTFs and alway try to learn new things</h3>
+<h1 align="center">Hi, I'm j3seer</h1>
+<h3 align="center">I like playing CTFs and alway try to learn new things in the security field, I mainly focus on web related bugs among other things. Feel free to say hi 👋</h3>
 
 - Sometimes write on my blog [https://j3seer.github.io/](https://j3seer.github.io/)
 
