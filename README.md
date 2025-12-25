@@ -1,6 +1,6 @@
 <h2>About me</h2>
 
-Pentester ~ Often doing CTFs or trying to hunt for bugs 
+Pentester 🕷️ ~ Often doing CTFs or trying to hunt for bugs 🐞
 
 Feel free to say hi👋 
 
