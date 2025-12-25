@@ -13,7 +13,6 @@ Feel free to say hi👋
 - [PyCGI - bi0sCTF Writeup](http://localhost:1313/posts/pycgi_bi0ctf/)
 - [Teach me - SparkCTF Writeup](http://localhost:1313/posts/sparkctf-2022-writeup/)
 - [DiceCTF@Hope 2022 - Writeup](http://localhost:1313/posts/dicectfhope_writeup/)
-- [NCSC 2022 - Writeup](http://localhost:1313/posts/ncsc_2022_writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 
