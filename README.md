@@ -1,12 +1,11 @@
-<h1 align="center">Hi, I'm j3seer</h1>
-<h3 align="center">I like playing CTFs and alway try to learn new things in the security field, I mainly focus on web related bugs among other things. Feel free to say hi 👋</h3>
+<h2>About me</h2>
 
-- Sometimes write on my blog [https://j3seer.github.io/](https://j3seer.github.io/)
+Pentester ~ Often doing CTFs or trying to hunt for bugs 
 
-- You can reach me at **j3seer@proton.me** or discord @j3seer
+Feel free to say hi👋 
 
-<h3 align="left">Socials:</h3>
-<p align="left">
+**j3seer@proton.me** ~ discord @j3seer
+
 <a href="https://twitter.com/j3seer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j3seer" height="30" width="40" /></a>
-</p>
+<a href="/https://j3seer.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://j3seer.github.io/index.xml" height="30" width="40" /></a>
 
