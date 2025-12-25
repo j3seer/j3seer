@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://j3seer.github.io/index.xml"
-
+          max_post_count: 4
