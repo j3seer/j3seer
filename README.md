@@ -9,10 +9,10 @@ Feel free to say hi👋
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [TwigPlayground - CSCTF 2024](http://localhost:1313/posts/twigplayground/)
-- [PyCGI - bi0sCTF Writeup](http://localhost:1313/posts/pycgi_bi0ctf/)
-- [Teach me - SparkCTF Writeup](http://localhost:1313/posts/sparkctf-2022-writeup/)
-- [DiceCTF@Hope 2022 - Writeup](http://localhost:1313/posts/dicectfhope_writeup/)
+- [TwigPlayground - CSCTF 2024](https://j3seer.github.io/posts/twigplayground/)
+- [PyCGI - bi0sCTF Writeup](https://j3seer.github.io/posts/pycgi_bi0ctf/)
+- [Teach me - SparkCTF Writeup](https://j3seer.github.io/posts/sparkctf-2022---writeup/)
+- [DiceCTF@Hope 2022 - Writeup](https://j3seer.github.io/posts/dicectf@hope_writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 
