@@ -9,10 +9,10 @@ Feel free to say hi👋
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Weak Middleware + SaaS Demo Page = Unauthenticated ATO](https://j3seer.github.io/posts/weak-middleware-+-saas-demo-page--unauthenticated-ato/)
-- [TwigPlayground - CSCTF 2024](https://j3seer.github.io/posts/twigplayground/)
-- [PyCGI - bi0sCTF Writeup](https://j3seer.github.io/posts/pycgi_bi0ctf/)
-- [Teach me - SparkCTF Writeup](https://j3seer.github.io/posts/sparkctf-2022---writeup/)
+- [Weak Middleware + SaaS Demo Page = Unauthenticated ATO](https://j3seer.github.io/blog/05-weak-middleware--saas-demo-page--unauthenticated-ato/)
+- [TwigPlayground - CSCTF 2024](https://j3seer.github.io/blog/04-twigplayground/)
+- [PyCGI - bi0sCTF Writeup](https://j3seer.github.io/blog/03-pycgi_bi0ctf/)
+- [Teach me - SparkCTF Writeup](https://j3seer.github.io/blog/02-sparkctf-2022---writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 
