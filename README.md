@@ -9,10 +9,10 @@ Feel free to say hi👋
 <h3>Latest blog posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2026-7817](https://j3seer.github.io/cves/cve-2026-7817/)
+- [CVE-2026-7815](https://j3seer.github.io/cves/cve-2026-7815/)
 - [Weak Middleware + SaaS Demo Page = Unauthenticated ATO](https://j3seer.github.io/blog/05-weak-middleware--saas-demo-page--unauthenticated-ato/)
 - [TwigPlayground - CSCTF 2024](https://j3seer.github.io/blog/04-twigplayground/)
-- [PyCGI - bi0sCTF Writeup](https://j3seer.github.io/blog/03-pycgi_bi0ctf/)
-- [Teach me - SparkCTF Writeup](https://j3seer.github.io/blog/02-sparkctf-2022---writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 
